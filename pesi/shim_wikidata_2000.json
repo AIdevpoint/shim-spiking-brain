@@ -1,0 +1,234 @@
+{
+"è": {
+"albero": "pianta",
+"nonna": "madre",
+"mela": "frutto",
+"pecora": "animale",
+"fiume": "corso",
+"terra": "pianeta",
+"guerra": "conflitto",
+"chiesa": "edificio",
+"repubblica": "governo",
+"vento": "energia",
+"peso": "quantità",
+"computer": "macchina",
+"continente": "terra",
+"cervello": "organo",
+"letteratura": "arte",
+"governo": "organo",
+"densità": "quantità",
+"africa": "continente",
+"asia": "continente",
+"scienza": "conoscenza",
+"robot": "macchina",
+"mura": "muro",
+"calore": "energia",
+"polizia": "forza",
+"sorella": "fratello",
+"figlia": "figlio",
+"aria": "gas",
+"presidente": "carica",
+"matrimonio": "relazione",
+"pistola": "arma",
+"capelli": "pelo",
+"ballo": "festa",
+"cucina": "stanza",
+"anima": "mente",
+"nonno": "padre",
+"esperienza": "conoscenza",
+"bomba": "arma",
+"zia": "zio",
+"treno": "trasporto",
+"prezzo": "quantità",
+"segnale": "messaggio",
+"sceriffo": "agente",
+"laboratorio": "istituto",
+"ristorante": "negozio",
+"arresto": "operazione",
+"furgone": "veicolo",
+"corsa": "sport",
+"contratto": "accordo",
+"ispettore": "agente",
+"moltiplicazione": "operazione",
+"sottrazione": "operazione",
+"altezza": "lunghezza",
+"denuncia": "accusa",
+"quadrato": "rettangolo",
+"triangolo": "figura",
+"raggio": "lunghezza",
+"sfera": "superficie",
+"rettangolo": "figura",
+"diametro": "lunghezza",
+"grammo": "unità",
+"cubo": "solido",
+"addizione": "operazione",
+"equazione": "formula",
+"balena": "mammifero",
+"maiale": "animale",
+"aquila": "uccello",
+"elefante": "mammifero",
+"scimmia": "animale",
+"pinguino": "uccello",
+"coniglio": "animale",
+"pappagallo": "animale",
+"divisore": "intero",
+"erba": "pianta",
+"banana": "frutta",
+"pera": "frutto",
+"piuma": "penna",
+"baffi": "pelo",
+"sabbia": "materiale",
+"limone": "frutta",
+"vulcano": "montagna",
+"giove": "pianeta",
+"marte": "pianeta",
+"patata": "verdura",
+"pomodoro": "verdura",
+"pietra": "materiale",
+"saturno": "pianeta",
+"uva": "frutta",
+"foresta": "bosco",
+"roccia": "materiale",
+"arancia": "frutta",
+"venere": "pianeta",
+"magnete": "materiale",
+"stomaco": "organo",
+"fegato": "organo",
+"rame": "metallo",
+"atmosfera": "gas",
+"vetro": "solido",
+"solido": "corpo",
+"polmone": "organo",
+"elettricità": "energia",
+"zaino": "sacco",
+"geografia": "scienza",
+"motore": "macchina",
+"autobus": "veicolo",
+"ruota": "macchina",
+"proboscide": "organo",
+"bicicletta": "veicolo"
+},
+"ha": {
+"fiume": [
+"acqua"
+],
+"foresta": [
+"albero"
+],
+"giorno": [
+"notte",
+"sera",
+"pomeriggio"
+],
+"settimana": [
+"giorno"
+],
+"edificio": [
+"tetto"
+],
+"bocca": [
+"lingua"
+],
+"universo": [
+"energia"
+],
+"scienza": [
+"ricerca"
+],
+"diritto": [
+"legge"
+],
+"pianeta": [
+"nucleo"
+],
+"cultura": [
+"tradizione",
+"arti",
+"arte"
+],
+"terra": [
+"continente"
+],
+"asia": [
+"cina"
+],
+"mercato": [
+"commercio"
+],
+"corpo": [
+"testa"
+],
+"castello": [
+"mura"
+],
+"pensiero": [
+"idea"
+],
+"mese": [
+"settimana"
+],
+"testa": [
+"bocca",
+"orecchio"
+],
+"software": [
+"programma"
+],
+"musica": [
+"canzone"
+],
+"guerra": [
+"battaglia"
+],
+"persona": [
+"anima"
+],
+"magia": [
+"maledizione"
+],
+"zampa": [
+"gamba",
+"piede"
+],
+"domanda": [
+"offerta"
+],
+"acqua": [
+"sale",
+"ossigeno"
+],
+"diametro": [
+"raggio"
+],
+"albero": [
+"ramo",
+"radice",
+"foglia"
+],
+"pianta": [
+"radice"
+],
+"temporale": [
+"fulmine"
+],
+"computer": [
+"tastiera",
+"software"
+],
+"finestra": [
+"vetro"
+],
+"scuola": [
+"alunno"
+],
+"metallo": [
+"stagno"
+],
+"equazione": [
+"variabile"
+],
+"veicolo": [
+"ruota"
+]
+}
+}

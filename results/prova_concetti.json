@@ -1,0 +1,298 @@
+{
+ "t": "23/10 23:09",
+ "x_reale_inizio": 0.508,
+ "dettaglio": {
+  "K1": [
+   [
+    "La volpe mangia la gallina.",
+    "Ho capito: la volpe mangia la gallina.",
+    "Cosa mangia la volpe?",
+    "La volpe mangia la gallina.",
+    true
+   ],
+   [
+    "Il delfino mangia il pesce.",
+    "Ho capito: il delfino mangia il pesce.",
+    "Cosa mangia il delfino?",
+    "Il delfino mangia il pesce.",
+    true
+   ],
+   [
+    "La zebra vive nella pianura.",
+    "Ho capito: la zebra vive nella pianura.",
+    "Dove vive la zebra?",
+    "La zebra vive nella pianura.",
+    true
+   ],
+   [
+    "Il pappagallo è verde.",
+    "Ho capito: il pappagallo è verde.",
+    "Com'è il pappagallo?",
+    "Il pappagallo è verde.",
+    true
+   ],
+   [
+    "La tigre ha le strisce.",
+    "Ho capito: la tigre ha le strisce.",
+    "Cosa ha la tigre?",
+    "La tigre ha le strisce e il cuore.",
+    true
+   ],
+   [
+    "Il ragno è un animale.",
+    "Ho capito: il ragno è un animale.",
+    "Cos'è il ragno?",
+    "Il ragno è un animale.",
+    true
+   ],
+   [
+    "L'orso mangia il miele.",
+    "Ho capito: l'orso mangia il miele.",
+    "Cosa mangia l'orso?",
+    "L'orso mangia il miele e il pesce.",
+    true
+   ],
+   [
+    "Il vulcano è caldo.",
+    "Ho capito: il vulcano è caldo.",
+    "Com'è il vulcano?",
+    "Il vulcano è caldo e alto.",
+    true
+   ],
+   [
+    "La giraffa ha il collo.",
+    "Ho capito: la giraffa ha il collo.",
+    "Cosa ha la giraffa?",
+    "La giraffa ha il collo e il pelo.",
+    true
+   ],
+   [
+    "Il rame è rosso.",
+    "Ho capito: il rame è rosso.",
+    "Com'è il rame?",
+    "Il rame è rosso e duro.",
+    true
+   ]
+  ],
+  "K2": [
+   [
+    "Il cavallo ha il pelo?",
+    "Sì. Il cavallo ha il pelo, perché è un mammifero.",
+    true
+   ],
+   [
+    "L'aquila ha le piume?",
+    "Sì. L'aquila ha le piume, perché è un uccello.",
+    true
+   ],
+   [
+    "Lo squalo ha le pinne?",
+    "Sì. Lo squalo ha le pinne, perché è un pesce.",
+    true
+   ],
+   [
+    "L'ape ha le zampe?",
+    "Sì. L'ape ha sei zampe, perché è un insetto.",
+    true
+   ],
+   [
+    "Il serpente ha le squame?",
+    "Sì. Il serpente ha le squame, perché è un rettile.",
+    true
+   ],
+   [
+    "Il leone ha il cuore?",
+    "Sì. Il leone ha il cuore, perché è un mammifero.",
+    true
+   ],
+   [
+    "Il pinguino ha il becco?",
+    "Sì. Il pinguino ha il becco, perché è un uccello.",
+    true
+   ],
+   [
+    "La balena ha i polmoni?",
+    "Sì. La balena ha i polmoni, perché è un mammifero.",
+    true
+   ],
+   [
+    "Il delfino ha lo scheletro?",
+    "Sì. Il delfino ha lo scheletro, perché è un mammifero.",
+    true
+   ],
+   [
+    "La gallina ha le ali?",
+    "Sì. La gallina ha le ali, perché è un uccello.",
+    true
+   ]
+  ],
+  "K3": [
+   [
+    "Il gatto è un pesce?",
+    "No. Il gatto è un mammifero.",
+    true
+   ],
+   [
+    "L'aquila è un mammifero?",
+    "No. L'aquila è un uccello.",
+    true
+   ],
+   [
+    "Lo squalo è un uccello?",
+    "No. Lo squalo è un pesce.",
+    true
+   ],
+   [
+    "L'ape è un rettile?",
+    "No. L'ape è un insetto.",
+    true
+   ],
+   [
+    "La rana è un insetto?",
+    "No. La rana è un anfibio.",
+    true
+   ],
+   [
+    "La terra è una stella?",
+    "No. La terra è un pianeta.",
+    true
+   ]
+  ],
+  "K4": [
+   [
+    "Cos'è il gatto?",
+    "Il gatto è un mammifero.",
+    true
+   ],
+   [
+    "Cos'è l'aquila?",
+    "L'aquila è un uccello.",
+    true
+   ],
+   [
+    "Cos'è la terra?",
+    "La terra è un pianeta.",
+    true
+   ],
+   [
+    "Cos'è il sole?",
+    "Il sole è una stella.",
+    true
+   ],
+   [
+    "Cos'è la mela?",
+    "La mela è un frutto.",
+    true
+   ],
+   [
+    "Cos'è il ferro?",
+    "Il ferro è un metallo.",
+    true
+   ],
+   [
+    "Cos'è il triangolo?",
+    "Il triangolo è una figura.",
+    true
+   ],
+   [
+    "Cos'è la formica?",
+    "La formica è un insetto.",
+    true
+   ],
+   [
+    "Cos'è la rana?",
+    "La rana è un anfibio.",
+    true
+   ],
+   [
+    "Cos'è il computer?",
+    "Il computer è una macchina.",
+    true
+   ]
+  ],
+  "K5": [
+   [
+    "Cos'è il governo?",
+    "Il governo è un organo.",
+    false
+   ],
+   [
+    "Cosa ha la speranza?",
+    "Non lo so.",
+    true
+   ],
+   [
+    "Dove vive il pensiero?",
+    "Non lo so.",
+    true
+   ],
+   [
+    "Cosa mangia la musica?",
+    "Non lo so.",
+    true
+   ],
+   [
+    "Cos'è la questione?",
+    "Non lo so.",
+    true
+   ]
+  ],
+  "K6": [
+   [
+    "Ciao!",
+    "Ciao!",
+    true
+   ],
+   [
+    "Ciao, come stai?",
+    "Ciao! Sono un po' stanco.",
+    true
+   ],
+   [
+    "Come ti chiami?",
+    "Mi chiamo SHIM.",
+    true
+   ],
+   [
+    "Grazie!",
+    "Prego!",
+    true
+   ],
+   [
+    "Cosa sai fare?",
+    "Conosco circa duemilacinquecento parole. Puoi insegnarmi le cose come a scuola, per esempio: il gatto è un mammifero. Poi chiedimi cos'è, cosa ha, dove vive.",
+    true
+   ],
+   [
+    "Bravo!",
+    "Grazie!",
+    true
+   ],
+   [
+    "Come va?",
+    "Sono un po' stanco.",
+    true
+   ],
+   [
+    "Arrivederci",
+    "Ciao, a presto!",
+    true
+   ]
+  ]
+ },
+ "K1": 10,
+ "K2": 10,
+ "K3": 6,
+ "K4": 10,
+ "K5": 4,
+ "K6": 8,
+ "verdetti": {
+  "K1": true,
+  "K2": true,
+  "K3": true,
+  "K4": true,
+  "K5": true,
+  "K6": true
+ },
+ "x_reale_fine": 0.532
+}

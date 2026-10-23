@@ -1,0 +1,16 @@
+{
+ "t": "23/10 22:55",
+ "x_reale_inizio": 0.507,
+ "dettaglio": [],
+ "P1": 6,
+ "P2": 1,
+ "P3": 4,
+ "P4": 2,
+ "verdetti": {
+  "P1": true,
+  "P2": true,
+  "P3": true,
+  "P4": true
+ },
+ "x_reale_fine": 0.493
+}

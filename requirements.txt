@@ -1,0 +1,7 @@
+# PyTorch (con CUDA per NVIDIA o XPU per Intel) e Triton si installano prima: vedi INSTALLA_SHIM.bat
+numpy>=1.24
+scipy>=1.10
+# facoltativi: la voce (Piper), le orecchie (Whisper), la voce in rete (Edge)
+# piper-tts
+# faster-whisper
+# edge-tts

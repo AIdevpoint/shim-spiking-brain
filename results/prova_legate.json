@@ -1,0 +1,584 @@
+{
+ "t": "23/10 23:05",
+ "x_reale_inizio": 0.399,
+ "prime5": {
+  "famiglia": [
+   "conti",
+   "ramo",
+   "padre",
+   "mammifero",
+   "genitori"
+  ],
+  "soldi": [
+   "biglietto",
+   "sacco",
+   "chilo",
+   "ristorante",
+   "banca"
+  ],
+  "viaggio": [
+   "treno",
+   "aereo",
+   "nave",
+   "continente",
+   "barca"
+  ],
+  "amici": [
+   "ristorante",
+   "aiuto",
+   "genitori",
+   "festa",
+   "caffè"
+  ],
+  "scuola": [
+   "scuole",
+   "istruzione",
+   "laboratorio",
+   "istituto",
+   "disegno"
+  ],
+  "lavoro": [
+   "rapporto",
+   "tutela",
+   "contratto",
+   "settore",
+   "laboratorio"
+  ],
+  "festa": [
+   "giorno",
+   "sera",
+   "mamma",
+   "primavera",
+   "cinema"
+  ],
+  "casa": [
+   "nonna",
+   "nonno",
+   "genitori",
+   "sera",
+   "appartamento"
+  ],
+  "cane": [
+   "gatto",
+   "scimmia",
+   "volpe",
+   "pappagallo",
+   "pelo"
+  ],
+  "mare": [
+   "oceano",
+   "mediterraneo",
+   "isole",
+   "mar",
+   "acque"
+  ],
+  "pane": [
+   "formaggio",
+   "vino",
+   "chilo",
+   "pasta",
+   "latte"
+  ],
+  "notte": [
+   "sogno",
+   "giorno",
+   "buio",
+   "sonno",
+   "estate"
+  ],
+  "libro": [
+   "magia",
+   "biblioteca",
+   "storia",
+   "sogni",
+   "conti"
+  ],
+  "musica": [
+   "cinema",
+   "teatro",
+   "canzone",
+   "letteratura",
+   "composizione"
+  ],
+  "guerra": [
+   "conflitto",
+   "esercito",
+   "battaglia",
+   "soldato",
+   "comando"
+  ],
+  "amore": [
+   "bacio",
+   "desiderio",
+   "canzone",
+   "anima",
+   "dolore"
+  ],
+  "città": [
+   "mura",
+   "capitale",
+   "castello",
+   "fiume",
+   "popolazione"
+  ],
+  "strada": [
+   "ponte",
+   "valle",
+   "confine",
+   "collina",
+   "costruzione"
+  ],
+  "medico": [
+   "paziente",
+   "ospedale",
+   "dottore",
+   "malattia",
+   "ispettore"
+  ],
+  "treno": [
+   "stazione",
+   "arrivo",
+   "segnale",
+   "aereo",
+   "biglietto"
+  ],
+  "bambino": [
+   "braccio",
+   "bambina",
+   "mamma",
+   "braccia",
+   "genitori"
+  ],
+  "donna": [
+   "marito",
+   "uomo",
+   "bambina",
+   "bambino",
+   "capelli"
+  ],
+  "cuore": [
+   "polmone",
+   "fegato",
+   "cervello",
+   "mente",
+   "anima"
+  ],
+  "tempo": [
+   "spazio",
+   "periodo",
+   "infinito",
+   "durata",
+   "futuro"
+  ],
+  "gioco": [
+   "regole",
+   "tavolo",
+   "palla",
+   "giochi",
+   "ruolo"
+  ],
+  "uomo": [
+   "scimmia",
+   "donna",
+   "animale",
+   "affari",
+   "idiota"
+  ],
+  "sole": [
+   "luna",
+   "raggio",
+   "pioggia",
+   "luce",
+   "cometa"
+  ],
+  "acqua": [
+   "pesce",
+   "corrente",
+   "temperatura",
+   "bottiglia",
+   "vino"
+  ],
+  "fuoco": [
+   "arma",
+   "fulmine",
+   "nemico",
+   "vulcano",
+   "palla"
+  ],
+  "cibo": [
+   "stomaco",
+   "vino",
+   "becco",
+   "sonno",
+   "pane"
+  ]
+ },
+ "L1_quota": 28,
+ "L1": true,
+ "L2_quota": 26,
+ "L2": true,
+ "L3_aggettivi": 0,
+ "L3": true,
+ "dettaglio": [
+  {
+   "tema": "famiglia",
+   "detti": [
+    "La famiglia? I conti e il ramo."
+   ],
+   "parole": [
+    "famiglia",
+    "conti",
+    "ramo"
+   ],
+   "primo_s": 5.45
+  },
+  {
+   "tema": "soldi",
+   "detti": [
+    "I soldi? Il sacco e il biglietto."
+   ],
+   "parole": [
+    "soldi",
+    "sacco",
+    "biglietto"
+   ],
+   "primo_s": 5.6
+  },
+  {
+   "tema": "viaggio",
+   "detti": [
+    "Il viaggio? Il continente e il treno."
+   ],
+   "parole": [
+    "viaggio",
+    "continente",
+    "treno"
+   ],
+   "primo_s": 5.39
+  },
+  {
+   "tema": "amici",
+   "detti": [
+    "L'amico corre in montagna."
+   ],
+   "parole": [
+    "amico",
+    "corre",
+    "montagna"
+   ],
+   "primo_s": 5.75
+  },
+  {
+   "tema": "scuola",
+   "detti": [
+    "La scuola? Le scuole e il laboratorio."
+   ],
+   "parole": [
+    "scuola",
+    "scuole",
+    "laboratorio"
+   ],
+   "primo_s": 6.52
+  },
+  {
+   "tema": "lavoro",
+   "detti": [
+    "lezione"
+   ],
+   "parole": [
+    "lezione"
+   ],
+   "primo_s": 2.7
+  },
+  {
+   "tema": "festa",
+   "detti": [
+    "La festa? La mamma e la sera."
+   ],
+   "parole": [
+    "festa",
+    "mamma",
+    "sera"
+   ],
+   "primo_s": 7.22
+  },
+  {
+   "tema": "casa",
+   "detti": [
+    "La casa? La nonna e la campagna."
+   ],
+   "parole": [
+    "casa",
+    "nonna",
+    "campagna"
+   ],
+   "primo_s": 5.28
+  },
+  {
+   "tema": "cane",
+   "detti": [
+    "Il cane mangia la mela."
+   ],
+   "parole": [
+    "cane",
+    "mangia",
+    "mela"
+   ],
+   "primo_s": 4.96
+  },
+  {
+   "tema": "mare",
+   "detti": [
+    "Il mare? L'oceano e le isole."
+   ],
+   "parole": [
+    "mare",
+    "oceano",
+    "isole"
+   ],
+   "primo_s": 5.42
+  },
+  {
+   "tema": "pane",
+   "detti": [
+    "Il pane? Il vino e il formaggio."
+   ],
+   "parole": [
+    "pane",
+    "vino",
+    "formaggio"
+   ],
+   "primo_s": 4.98
+  },
+  {
+   "tema": "notte",
+   "detti": [
+    "La notte? La mattina e il giorno."
+   ],
+   "parole": [
+    "notte",
+    "mattina",
+    "giorno"
+   ],
+   "primo_s": 4.87
+  },
+  {
+   "tema": "libro",
+   "detti": [
+    "Il libro? La biblioteca e la magia."
+   ],
+   "parole": [
+    "libro",
+    "biblioteca",
+    "magia"
+   ],
+   "primo_s": 5.08
+  },
+  {
+   "tema": "musica",
+   "detti": [
+    "La musica? Il cinema e la composizione."
+   ],
+   "parole": [
+    "musica",
+    "cinema",
+    "composizione"
+   ],
+   "primo_s": 5.0
+  },
+  {
+   "tema": "guerra",
+   "detti": [
+    "La guerra? Il conflitto e la battaglia."
+   ],
+   "parole": [
+    "guerra",
+    "conflitto",
+    "battaglia"
+   ],
+   "primo_s": 4.96
+  },
+  {
+   "tema": "amore",
+   "detti": [
+    "L'amore? Il desiderio e la canzone."
+   ],
+   "parole": [
+    "amore",
+    "desiderio",
+    "canzone"
+   ],
+   "primo_s": 5.01
+  },
+  {
+   "tema": "città",
+   "detti": [
+    "La città? Il castello e la capitale."
+   ],
+   "parole": [
+    "città",
+    "castello",
+    "capitale"
+   ],
+   "primo_s": 5.03
+  },
+  {
+   "tema": "strada",
+   "detti": [
+    "La strada? Il confine e il ponte."
+   ],
+   "parole": [
+    "strada",
+    "confine",
+    "ponte"
+   ],
+   "primo_s": 5.3
+  },
+  {
+   "tema": "medico",
+   "detti": [
+    "Il medico? L'ospedale e il paziente."
+   ],
+   "parole": [
+    "medico",
+    "ospedale",
+    "paziente"
+   ],
+   "primo_s": 6.85
+  },
+  {
+   "tema": "treno",
+   "detti": [
+    "Il treno? La stazione e il segnale."
+   ],
+   "parole": [
+    "treno",
+    "stazione",
+    "segnale"
+   ],
+   "primo_s": 5.14
+  },
+  {
+   "tema": "bambino",
+   "detti": [
+    "Il bambino mangia il topo."
+   ],
+   "parole": [
+    "bambino",
+    "mangia",
+    "topo"
+   ],
+   "primo_s": 5.33
+  },
+  {
+   "tema": "donna",
+   "detti": [
+    "La donna? Il marito e l'uomo."
+   ],
+   "parole": [
+    "donna",
+    "marito",
+    "uomo"
+   ],
+   "primo_s": 4.97
+  },
+  {
+   "tema": "cuore",
+   "detti": [
+    "Il cuore? Il polmone e il fegato."
+   ],
+   "parole": [
+    "cuore",
+    "polmone",
+    "fegato"
+   ],
+   "primo_s": 5.02
+  },
+  {
+   "tema": "tempo",
+   "detti": [
+    "Il tempo? L'infinito e il minuto."
+   ],
+   "parole": [
+    "tempo",
+    "infinito",
+    "minuto"
+   ],
+   "primo_s": 4.92
+  },
+  {
+   "tema": "gioco",
+   "detti": [
+    "Il gioco? Le regole e il tavolo."
+   ],
+   "parole": [
+    "gioco",
+    "regole",
+    "tavolo"
+   ],
+   "primo_s": 5.03
+  },
+  {
+   "tema": "uomo",
+   "detti": [
+    "L'uomo? La scimmia e l'animale."
+   ],
+   "parole": [
+    "uomo",
+    "scimmia",
+    "animale"
+   ],
+   "primo_s": 5.05
+  },
+  {
+   "tema": "sole",
+   "detti": [
+    "Il sole? Il raggio e la luce."
+   ],
+   "parole": [
+    "sole",
+    "raggio",
+    "luce"
+   ],
+   "primo_s": 4.97
+  },
+  {
+   "tema": "acqua",
+   "detti": [
+    "L'acqua? La temperatura e il vino."
+   ],
+   "parole": [
+    "acqua",
+    "temperatura",
+    "vino"
+   ],
+   "primo_s": 4.92
+  },
+  {
+   "tema": "fuoco",
+   "detti": [
+    "Il fuoco? L'arma e il nemico."
+   ],
+   "parole": [
+    "fuoco",
+    "arma",
+    "nemico"
+   ],
+   "primo_s": 4.97
+  },
+  {
+   "tema": "cibo",
+   "detti": [
+    "Il cibo? Lo stomaco e il vino."
+   ],
+   "parole": [
+    "cibo",
+    "stomaco",
+    "vino"
+   ],
+   "primo_s": 5.12
+  }
+ ],
+ "x_reale_fine": 0.526,
+ "L4": "da giudicare a mano (dichiarato)"
+}

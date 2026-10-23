@@ -1,0 +1,607 @@
+{
+ "t": "23/10 23:01",
+ "x_reale_inizio": 0.538,
+ "turni": [
+  {
+   "tu": "Quanto fa tre più due?",
+   "primo_s": 6.47,
+   "detti": [
+    {
+     "testo": "Tre... quattro, cinque. Fa cinque.",
+     "parole": [
+      "tre",
+      "quattro",
+      "cinque"
+     ]
+    }
+   ],
+   "info": {
+    "lette": [
+     "quanto",
+     "tre",
+     "due"
+    ],
+    "formule": [],
+    "in_testa": [],
+    "modo": "somma",
+    "risultato": "cinque"
+   },
+   "giusta": "cinque",
+   "ok": true
+  },
+  {
+   "tu": "Uno più uno?",
+   "primo_s": 3.35,
+   "detti": [
+    {
+     "testo": "Uno... due. Fa due.",
+     "parole": [
+      "uno",
+      "due"
+     ]
+    }
+   ],
+   "info": {
+    "lette": [
+     "uno"
+    ],
+    "formule": [],
+    "in_testa": [],
+    "modo": "somma",
+    "risultato": "due"
+   },
+   "giusta": "due",
+   "ok": true
+  },
+  {
+   "tu": "Quattro più tre?",
+   "primo_s": 4.54,
+   "detti": [
+    {
+     "testo": "Quattro... cinque, sei, sette. Fa sette.",
+     "parole": [
+      "quattro",
+      "cinque",
+      "sei",
+      "sette"
+     ]
+    }
+   ],
+   "info": {
+    "lette": [
+     "quattro",
+     "tre"
+    ],
+    "formule": [],
+    "in_testa": [],
+    "modo": "somma",
+    "risultato": "sette"
+   },
+   "giusta": "sette",
+   "ok": true
+  },
+  {
+   "tu": "2 + 6",
+   "primo_s": 7.03,
+   "detti": [
+    {
+     "testo": "Due... tre, quattro, cinque, sei, sette, otto. Fa otto.",
+     "parole": [
+      "due",
+      "tre",
+      "quattro",
+      "cinque",
+      "sei",
+      "sette",
+      "otto"
+     ]
+    }
+   ],
+   "info": {
+    "lette": [],
+    "formule": [],
+    "in_testa": [],
+    "modo": "somma",
+    "risultato": "otto"
+   },
+   "giusta": "otto",
+   "ok": true
+  },
+  {
+   "tu": "Cinque più cinque?",
+   "primo_s": 6.22,
+   "detti": [
+    {
+     "testo": "Cinque... sei, sette, otto, nove, dieci. Fa dieci.",
+     "parole": [
+      "cinque",
+      "sei",
+      "sette",
+      "otto",
+      "nove",
+      "dieci"
+     ]
+    }
+   ],
+   "info": {
+    "lette": [
+     "cinque"
+    ],
+    "formule": [],
+    "in_testa": [],
+    "modo": "somma",
+    "risultato": "dieci"
+   },
+   "giusta": "dieci",
+   "ok": true
+  },
+  {
+   "tu": "Sei più uno?",
+   "primo_s": 3.22,
+   "detti": [
+    {
+     "testo": "Sei... sette. Fa sette.",
+     "parole": [
+      "sei",
+      "sette"
+     ]
+    }
+   ],
+   "info": {
+    "lette": [
+     "sei",
+     "uno"
+    ],
+    "formule": [],
+    "in_testa": [],
+    "modo": "somma",
+    "risultato": "sette"
+   },
+   "giusta": "sette",
+   "ok": true
+  },
+  {
+   "tu": "Quanto fa due più due?",
+   "primo_s": 4.22,
+   "detti": [
+    {
+     "testo": "Due... tre, quattro. Fa quattro.",
+     "parole": [
+      "due",
+      "tre",
+      "quattro"
+     ]
+    }
+   ],
+   "info": {
+    "lette": [
+     "quanto",
+     "due"
+    ],
+    "formule": [],
+    "in_testa": [],
+    "modo": "somma",
+    "risultato": "quattro"
+   },
+   "giusta": "quattro",
+   "ok": true
+  },
+  {
+   "tu": "Sette più due?",
+   "primo_s": 3.78,
+   "detti": [
+    {
+     "testo": "Sette... otto, nove. Fa nove.",
+     "parole": [
+      "sette",
+      "otto",
+      "nove"
+     ]
+    }
+   ],
+   "info": {
+    "lette": [
+     "sette",
+     "due"
+    ],
+    "formule": [],
+    "in_testa": [],
+    "modo": "somma",
+    "risultato": "nove"
+   },
+   "giusta": "nove",
+   "ok": true
+  },
+  {
+   "tu": "1 + 4",
+   "primo_s": 5.81,
+   "detti": [
+    {
+     "testo": "Uno... due, tre, quattro, cinque. Fa cinque.",
+     "parole": [
+      "uno",
+      "due",
+      "tre",
+      "quattro",
+      "cinque"
+     ]
+    }
+   ],
+   "info": {
+    "lette": [],
+    "formule": [],
+    "in_testa": [],
+    "modo": "somma",
+    "risultato": "cinque"
+   },
+   "giusta": "cinque",
+   "ok": true
+  },
+  {
+   "tu": "Otto più due?",
+   "primo_s": 3.92,
+   "detti": [
+    {
+     "testo": "Otto... nove, dieci. Fa dieci.",
+     "parole": [
+      "otto",
+      "nove",
+      "dieci"
+     ]
+    }
+   ],
+   "info": {
+    "lette": [
+     "otto",
+     "due"
+    ],
+    "formule": [],
+    "in_testa": [],
+    "modo": "somma",
+    "risultato": "dieci"
+   },
+   "giusta": "dieci",
+   "ok": true
+  },
+  {
+   "tu": "Quanto fa cinque meno due?",
+   "primo_s": 4.08,
+   "detti": [
+    {
+     "testo": "Cinque... quattro, tre. Fa tre.",
+     "parole": [
+      "cinque",
+      "quattro",
+      "tre"
+     ]
+    }
+   ],
+   "info": {
+    "lette": [
+     "quanto",
+     "cinque",
+     "meno",
+     "due"
+    ],
+    "formule": [],
+    "in_testa": [],
+    "modo": "sottrazione",
+    "risultato": "tre"
+   },
+   "giusta": "tre",
+   "ok": true
+  },
+  {
+   "tu": "Dieci meno tre?",
+   "primo_s": 4.78,
+   "detti": [
+    {
+     "testo": "Dieci... nove, otto, sette. Fa sette.",
+     "parole": [
+      "dieci",
+      "nove",
+      "otto",
+      "sette"
+     ]
+    }
+   ],
+   "info": {
+    "lette": [
+     "dieci",
+     "meno",
+     "tre"
+    ],
+    "formule": [],
+    "in_testa": [],
+    "modo": "sottrazione",
+    "risultato": "sette"
+   },
+   "giusta": "sette",
+   "ok": true
+  },
+  {
+   "tu": "Sette meno uno?",
+   "primo_s": 3.11,
+   "detti": [
+    {
+     "testo": "Sette... sei. Fa sei.",
+     "parole": [
+      "sette",
+      "sei"
+     ]
+    }
+   ],
+   "info": {
+    "lette": [
+     "sette",
+     "meno",
+     "uno"
+    ],
+    "formule": [],
+    "in_testa": [],
+    "modo": "sottrazione",
+    "risultato": "sei"
+   },
+   "giusta": "sei",
+   "ok": true
+  },
+  {
+   "tu": "4 - 2",
+   "primo_s": 3.99,
+   "detti": [
+    {
+     "testo": "Quattro... tre, due. Fa due.",
+     "parole": [
+      "quattro",
+      "tre",
+      "due"
+     ]
+    }
+   ],
+   "info": {
+    "lette": [],
+    "formule": [],
+    "in_testa": [],
+    "modo": "sottrazione",
+    "risultato": "due"
+   },
+   "giusta": "due",
+   "ok": true
+  },
+  {
+   "tu": "Nove meno quattro?",
+   "primo_s": 5.5,
+   "detti": [
+    {
+     "testo": "Nove... otto, sette, sei, cinque. Fa cinque.",
+     "parole": [
+      "nove",
+      "otto",
+      "sette",
+      "sei",
+      "cinque"
+     ]
+    }
+   ],
+   "info": {
+    "lette": [
+     "nove",
+     "meno",
+     "quattro"
+    ],
+    "formule": [],
+    "in_testa": [],
+    "modo": "sottrazione",
+    "risultato": "cinque"
+   },
+   "giusta": "cinque",
+   "ok": true
+  },
+  {
+   "tu": "Sei meno tre?",
+   "primo_s": 4.64,
+   "detti": [
+    {
+     "testo": "Sei... cinque, quattro, tre. Fa tre.",
+     "parole": [
+      "sei",
+      "cinque",
+      "quattro",
+      "tre"
+     ]
+    }
+   ],
+   "info": {
+    "lette": [
+     "sei",
+     "meno",
+     "tre"
+    ],
+    "formule": [],
+    "in_testa": [],
+    "modo": "sottrazione",
+    "risultato": "tre"
+   },
+   "giusta": "tre",
+   "ok": true
+  },
+  {
+   "tu": "Il triangolo?",
+   "primo_s": 5.39,
+   "detti": [
+    {
+     "testo": "Il triangolo? Il rettangolo e i lati.",
+     "parole": [
+      "triangolo",
+      "rettangolo",
+      "lati"
+     ]
+    }
+   ],
+   "info": {
+    "lette": [
+     "triangolo"
+    ],
+    "formule": [],
+    "in_testa": [],
+    "modo": "frase",
+    "intrusi": [
+     "prego"
+    ],
+    "da_memoria": false
+   },
+   "argomento": "triangolo",
+   "ok": true
+  },
+  {
+   "tu": "Il cerchio?",
+   "primo_s": 5.19,
+   "detti": [
+    {
+     "testo": "Il cerchio? Il rettangolo e un diametro.",
+     "parole": [
+      "cerchio",
+      "rettangolo",
+      "diametro"
+     ]
+    }
+   ],
+   "info": {
+    "lette": [
+     "cerchio"
+    ],
+    "formule": [],
+    "in_testa": [],
+    "modo": "frase",
+    "intrusi": [
+     "dici",
+     "lingue"
+    ],
+    "da_memoria": false
+   },
+   "argomento": "cerchio",
+   "ok": true
+  },
+  {
+   "tu": "La somma?",
+   "primo_s": 5.29,
+   "detti": [
+    {
+     "testo": "La somma? Gli angoli e una sottrazione.",
+     "parole": [
+      "somma",
+      "angoli",
+      "sottrazione"
+     ]
+    }
+   ],
+   "info": {
+    "lette": [
+     "somma"
+    ],
+    "formule": [],
+    "in_testa": [],
+    "modo": "frase",
+    "intrusi": [
+     "marco",
+     "potrebbe",
+     "sacco",
+     "uno"
+    ],
+    "da_memoria": false
+   },
+   "argomento": "somma",
+   "ok": true
+  },
+  {
+   "tu": "La geometria?",
+   "primo_s": 6.71,
+   "detti": [
+    {
+     "testo": "La geometria? La teoria e il triangolo.",
+     "parole": [
+      "geometria",
+      "teoria",
+      "triangolo"
+     ]
+    }
+   ],
+   "info": {
+    "lette": [
+     "geometria"
+    ],
+    "formule": [],
+    "in_testa": [],
+    "modo": "frase",
+    "intrusi": [
+     "far"
+    ],
+    "da_memoria": false
+   },
+   "argomento": "geometria",
+   "ok": true
+  },
+  {
+   "tu": "Il quadrato?",
+   "primo_s": 6.57,
+   "detti": [
+    {
+     "testo": "Il quadrato? Il cubo e il rettangolo.",
+     "parole": [
+      "quadrato",
+      "cubo",
+      "rettangolo"
+     ]
+    }
+   ],
+   "info": {
+    "lette": [
+     "quadrato"
+    ],
+    "formule": [],
+    "in_testa": [],
+    "modo": "frase",
+    "intrusi": [],
+    "da_memoria": false
+   },
+   "argomento": "quadrato",
+   "ok": true
+  },
+  {
+   "tu": "La frazione?",
+   "primo_s": 5.58,
+   "detti": [
+    {
+     "testo": "La frazione? La cifra e il territorio.",
+     "parole": [
+      "frazione",
+      "cifra",
+      "territorio"
+     ]
+    }
+   ],
+   "info": {
+    "lette": [
+     "frazione"
+    ],
+    "formule": [],
+    "in_testa": [],
+    "modo": "frase",
+    "intrusi": [
+     "pianeti",
+     "vinci"
+    ],
+    "da_memoria": false
+   },
+   "argomento": "frazione",
+   "ok": true
+  }
+ ],
+ "M1_giuste": 10,
+ "M2_giuste": 6,
+ "M3_giuste": 6,
+ "M1": true,
+ "M2": true,
+ "M3": true,
+ "x_reale_fine": 0.516
+}

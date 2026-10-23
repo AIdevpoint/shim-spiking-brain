@@ -1,0 +1,5 @@
+venv/
+stato/
+__pycache__/
+*.pyc
+results/shim.log

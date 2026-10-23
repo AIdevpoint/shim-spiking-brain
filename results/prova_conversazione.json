@@ -1,0 +1,455 @@
+{
+ "t": "23/10 22:59",
+ "x_reale_inizio": 0.515,
+ "turni": [
+  {
+   "tu": "Ciao!",
+   "primo_s": 0.83,
+   "detti": [
+    {
+     "testo": "Ciao!",
+     "parole": []
+    }
+   ],
+   "info": {
+    "lette": [],
+    "formule": [
+     "saluto"
+    ],
+    "in_testa": [],
+    "modo": null
+   },
+   "giusta": true
+  },
+  {
+   "tu": "Ciao, come stai?",
+   "primo_s": 0.77,
+   "detti": [
+    {
+     "testo": "Ciao! Sono un po' stanco.",
+     "parole": []
+    }
+   ],
+   "info": {
+    "lette": [],
+    "formule": [
+     "saluto",
+     "come_stai"
+    ],
+    "in_testa": [],
+    "modo": null
+   },
+   "giusta": true
+  },
+  {
+   "tu": "Come ti chiami?",
+   "primo_s": 0.81,
+   "detti": [
+    {
+     "testo": "Mi chiamo SHIM.",
+     "parole": []
+    }
+   ],
+   "info": {
+    "lette": [],
+    "formule": [
+     "nome"
+    ],
+    "in_testa": [],
+    "modo": null
+   },
+   "giusta": true
+  },
+  {
+   "tu": "Grazie!",
+   "primo_s": 0.84,
+   "detti": [
+    {
+     "testo": "Prego!",
+     "parole": []
+    }
+   ],
+   "info": {
+    "lette": [],
+    "formule": [
+     "grazie"
+    ],
+    "in_testa": [],
+    "modo": null
+   },
+   "giusta": true
+  },
+  {
+   "tu": "Cosa sai fare?",
+   "primo_s": 0.88,
+   "detti": [
+    {
+     "testo": "Conosco circa duemilacinquecento parole. Puoi insegnarmi le cose come a scuola, per esempio: il gatto è un mammifero. Poi chiedimi cos'è, cosa ha, dove vive.",
+     "parole": []
+    }
+   ],
+   "info": {
+    "lette": [],
+    "formule": [
+     "sai_fare"
+    ],
+    "in_testa": [],
+    "modo": null
+   },
+   "giusta": true
+  },
+  {
+   "tu": "Bravo!",
+   "primo_s": 0.77,
+   "detti": [
+    {
+     "testo": "Grazie!",
+     "parole": []
+    }
+   ],
+   "info": {
+    "lette": [],
+    "formule": [
+     "bravo"
+    ],
+    "in_testa": [],
+    "modo": null
+   },
+   "giusta": true
+  },
+  {
+   "tu": "Come va?",
+   "primo_s": 1.07,
+   "detti": [
+    {
+     "testo": "Sono un po' stanco.",
+     "parole": []
+    }
+   ],
+   "info": {
+    "lette": [],
+    "formule": [
+     "come_stai"
+    ],
+    "in_testa": [],
+    "modo": null
+   },
+   "giusta": true
+  },
+  {
+   "tu": "Arrivederci",
+   "primo_s": 0.92,
+   "detti": [
+    {
+     "testo": "Ciao, a presto!",
+     "parole": []
+    }
+   ],
+   "info": {
+    "lette": [],
+    "formule": [
+     "addio"
+    ],
+    "in_testa": [],
+    "modo": null
+   },
+   "giusta": true
+  },
+  {
+   "tu": "Il cane?",
+   "primo_s": 5.07,
+   "detti": [
+    {
+     "testo": "Il cane mangia la mela.",
+     "parole": [
+      "cane",
+      "mangia",
+      "mela"
+     ]
+    }
+   ],
+   "info": {
+    "lette": [
+     "cane"
+    ],
+    "formule": [],
+    "in_testa": [],
+    "modo": "frase",
+    "intrusi": [
+     "popolazione",
+     "ehi"
+    ],
+    "da_memoria": false
+   },
+   "giusta": true
+  },
+  {
+   "tu": "Cosa fa l'uccello?",
+   "primo_s": 3.43,
+   "detti": [
+    {
+     "testo": "L'uccello vola e respira.",
+     "parole": [
+      "uccello",
+      "vola",
+      "respira"
+     ]
+    }
+   ],
+   "info": {
+    "lette": [
+     "uccello"
+    ],
+    "formule": [],
+    "in_testa": [],
+    "modo": "concetto",
+    "concetto": [
+     "domanda",
+     "uccello",
+     "fa"
+    ]
+   },
+   "giusta": true
+  },
+  {
+   "tu": "Parlami del pesce",
+   "primo_s": 16.54,
+   "detti": [
+    {
+     "testo": "Il pesce è un animale. Ha le pinne e le squame. Nuota. Vive nell'acqua.",
+     "parole": [
+      "pesce",
+      "animale",
+      "pinna",
+      "squama",
+      "nuota",
+      "acqua"
+     ]
+    }
+   ],
+   "info": {
+    "lette": [
+     "pesce"
+    ],
+    "formule": [],
+    "in_testa": [],
+    "modo": "concetto",
+    "concetto": [
+     "riassunto",
+     "pesce"
+    ]
+   },
+   "giusta": true
+  },
+  {
+   "tu": "E il gatto?",
+   "primo_s": 3.7,
+   "detti": [
+    {
+     "testo": "Il gatto dorme e miagola.",
+     "parole": [
+      "gatto",
+      "dorme",
+      "miagola"
+     ]
+    }
+   ],
+   "info": {
+    "lette": [
+     "gatto"
+    ],
+    "formule": [],
+    "in_testa": [],
+    "modo": "concetto",
+    "concetto": [
+     "domanda",
+     "gatto",
+     "fa"
+    ]
+   },
+   "giusta": true
+  },
+  {
+   "tu": "La mucca?",
+   "primo_s": 5.17,
+   "detti": [
+    {
+     "testo": "La mucca mangia il pane.",
+     "parole": [
+      "mucca",
+      "mangia",
+      "pane"
+     ]
+    }
+   ],
+   "info": {
+    "lette": [
+     "mucca"
+    ],
+    "formule": [],
+    "in_testa": [
+     "mucca"
+    ],
+    "modo": "frase",
+    "intrusi": [
+     "giorno",
+     "eventi"
+    ],
+    "da_memoria": true
+   },
+   "giusta": true
+  },
+  {
+   "tu": "Il bambino",
+   "primo_s": 4.94,
+   "detti": [
+    {
+     "testo": "Il bambino dorme nel letto.",
+     "parole": [
+      "bambino",
+      "dorme",
+      "letto"
+     ]
+    }
+   ],
+   "info": {
+    "lette": [
+     "bambino"
+    ],
+    "formule": [],
+    "in_testa": [],
+    "modo": "frase",
+    "intrusi": [
+     "parola",
+     "latino"
+    ],
+    "da_memoria": false
+   },
+   "giusta": true
+  },
+  {
+   "tu": "Dimmi del cavallo",
+   "primo_s": 16.42,
+   "detti": [
+    {
+     "testo": "Il cavallo è un mammifero. Ha gli zoccoli e il pelo. Mangia l'erba. Corre.",
+     "parole": [
+      "cavallo",
+      "mammifero",
+      "zoccolo",
+      "pelo",
+      "erba",
+      "corre"
+     ]
+    }
+   ],
+   "info": {
+    "lette": [
+     "dimmi",
+     "cavallo"
+    ],
+    "formule": [],
+    "in_testa": [],
+    "modo": "concetto",
+    "concetto": [
+     "riassunto",
+     "cavallo"
+    ]
+   },
+   "giusta": true
+  },
+  {
+   "tu": "E la nonna?",
+   "primo_s": 5.05,
+   "detti": [
+    {
+     "testo": "La nonna dorme in casa.",
+     "parole": [
+      "nonna",
+      "dorme",
+      "casa"
+     ]
+    }
+   ],
+   "info": {
+    "lette": [
+     "nonna"
+    ],
+    "formule": [],
+    "in_testa": [],
+    "modo": "frase",
+    "concetto": [
+     "domanda",
+     "nonna",
+     "fa"
+    ],
+    "intrusi": [
+     "movimenti",
+     "prodotti",
+     "unico"
+    ],
+    "da_memoria": false
+   },
+   "giusta": true
+  },
+  {
+   "tu": "Xyzw qrtp",
+   "primo_s": 0.77,
+   "detti": [
+    {
+     "testo": "Non ho capito.",
+     "parole": []
+    }
+   ],
+   "info": {
+    "lette": [],
+    "formule": [],
+    "in_testa": [],
+    "modo": "non capito"
+   }
+  },
+  {
+   "tu": "Blorf snak?",
+   "primo_s": 0.88,
+   "detti": [
+    {
+     "testo": "Non ho capito.",
+     "parole": []
+    }
+   ],
+   "info": {
+    "lette": [],
+    "formule": [],
+    "in_testa": [],
+    "modo": "non capito"
+   }
+  },
+  {
+   "tu": "Kappa zeta omega",
+   "primo_s": 0.9,
+   "detti": [
+    {
+     "testo": "Non ho capito.",
+     "parole": []
+    }
+   ],
+   "info": {
+    "lette": [],
+    "formule": [],
+    "in_testa": [],
+    "modo": "non capito"
+   }
+  }
+ ],
+ "C1_giuste": 8,
+ "C1_veloci": 8,
+ "C2_giuste": 8,
+ "C2_veloci": 6,
+ "C3": 3,
+ "C4": 19,
+ "x_reale_fine": 0.514,
+ "C1": true,
+ "C2": true,
+ "C3_ok": true,
+ "C4_ok": true
+}

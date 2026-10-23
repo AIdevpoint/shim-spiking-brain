@@ -1,0 +1,254 @@
+{
+ "versione": "SHIM 1 (23/10/2026)",
+ "aree": [
+  "vista",
+  "udito",
+  "linguaggio",
+  "prefrontale",
+  "memoria",
+  "parietale",
+  "temporale",
+  "corteccia",
+  "profondo"
+ ],
+ "blocchi": [
+  {
+   "nome": "udito_1",
+   "area": "udito",
+   "neuroni": 1348
+  },
+  {
+   "nome": "udito_2",
+   "area": "udito",
+   "neuroni": 1540
+  },
+  {
+   "nome": "udito_3",
+   "area": "udito",
+   "neuroni": 908
+  },
+  {
+   "nome": "udito_4",
+   "area": "udito",
+   "neuroni": 1164
+  },
+  {
+   "nome": "udito_5",
+   "area": "udito",
+   "neuroni": 2036
+  },
+  {
+   "nome": "udito_6",
+   "area": "udito",
+   "neuroni": 1988
+  },
+  {
+   "nome": "udito_7",
+   "area": "udito",
+   "neuroni": 2724
+  },
+  {
+   "nome": "udito_8",
+   "area": "udito",
+   "neuroni": 2892
+  },
+  {
+   "nome": "udito_9",
+   "area": "udito",
+   "neuroni": 2228
+  },
+  {
+   "nome": "udito_10",
+   "area": "udito",
+   "neuroni": 2480
+  },
+  {
+   "nome": "bocca",
+   "area": "linguaggio",
+   "neuroni": 22962
+  },
+  {
+   "nome": "parole",
+   "area": "linguaggio",
+   "neuroni": 54996
+  },
+  {
+   "nome": "v1_sx",
+   "area": "vista",
+   "neuroni": 21546
+  },
+  {
+   "nome": "v1_dx",
+   "area": "vista",
+   "neuroni": 22622
+  },
+  {
+   "nome": "ips",
+   "area": "parietale",
+   "neuroni": 8502
+  },
+  {
+   "nome": "amigdala",
+   "area": "profondo",
+   "neuroni": 1336
+  },
+  {
+   "nome": "accumbens",
+   "area": "profondo",
+   "neuroni": 1336
+  },
+  {
+   "nome": "talamo",
+   "area": "profondo",
+   "neuroni": 1336
+  },
+  {
+   "nome": "pf_sx",
+   "area": "prefrontale",
+   "neuroni": 57350
+  },
+  {
+   "nome": "pf_dx",
+   "area": "prefrontale",
+   "neuroni": 57152
+  },
+  {
+   "nome": "vista",
+   "area": "vista",
+   "neuroni": 97833
+  },
+  {
+   "nome": "udito",
+   "area": "udito",
+   "neuroni": 10412
+  },
+  {
+   "nome": "memoria",
+   "area": "memoria",
+   "neuroni": 47283
+  },
+  {
+   "nome": "parietale",
+   "area": "parietale",
+   "neuroni": 31118
+  },
+  {
+   "nome": "temporale",
+   "area": "temporale",
+   "neuroni": 31289
+  },
+  {
+   "nome": "corteccia",
+   "area": "corteccia",
+   "neuroni": 70862
+  },
+  {
+   "nome": "profondo",
+   "area": "profondo",
+   "neuroni": 4008
+  }
+ ],
+ "lunghe": [
+  [
+   0.51516,
+   0.00089,
+   0.00614,
+   0.01482,
+   0.16226,
+   0.05569,
+   0.10204,
+   0.0616,
+   0.0814
+  ],
+  [
+   0.01231,
+   0.29899,
+   0.07122,
+   0.0079,
+   0.00366,
+   0.10327,
+   0.02909,
+   0.45345,
+   0.02012
+  ],
+  [
+   0.03518,
+   0.0879,
+   0.27674,
+   0.08791,
+   0.0,
+   0.09413,
+   0.18761,
+   0.18833,
+   0.0422
+  ],
+  [
+   0.00383,
+   0.00085,
+   0.01822,
+   0.62525,
+   0.00286,
+   0.02925,
+   0.0158,
+   0.1714,
+   0.13255
+  ],
+  [
+   0.26536,
+   0.00163,
+   0.0,
+   0.01814,
+   0.35336,
+   0.08049,
+   0.13676,
+   0.03588,
+   0.10838
+  ],
+  [
+   0.06807,
+   0.02319,
+   0.03461,
+   0.07714,
+   0.04613,
+   0.40157,
+   0.06773,
+   0.22763,
+   0.05392
+  ],
+  [
+   0.17273,
+   0.01205,
+   0.06766,
+   0.07145,
+   0.11526,
+   0.0888,
+   0.27296,
+   0.12219,
+   0.0769
+  ],
+  [
+   0.01702,
+   0.03658,
+   0.03437,
+   0.15314,
+   0.01145,
+   0.11281,
+   0.02541,
+   0.50859,
+   0.10064
+  ],
+  [
+   0.06692,
+   0.00306,
+   0.0151,
+   0.32899,
+   0.08086,
+   0.07499,
+   0.04396,
+   0.22298,
+   0.16315
+  ]
+ ],
+ "k_locale": 66.8,
+ "frazione_e": 0.8
+}

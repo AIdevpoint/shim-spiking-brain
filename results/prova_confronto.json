@@ -1,0 +1,692 @@
+{
+ "t": "23/10 23:03",
+ "x_reale_inizio": 0.496,
+ "turni": [
+  {
+   "tu": "È più grande il due o il nove?",
+   "primo_s": 4.41,
+   "detti": [
+    {
+     "testo": "Il nove.",
+     "parole": []
+    }
+   ],
+   "info": {
+    "lette": [
+     "grande",
+     "due",
+     "nove"
+    ],
+    "formule": [],
+    "in_testa": [],
+    "modo": "confronto",
+    "risultato": [
+     9,
+     [
+      2.260623234454552,
+      5.5517554399982085
+     ]
+    ]
+   },
+   "coppia": [
+    2,
+    9
+   ],
+   "grande": true,
+   "giusta": "nove",
+   "ok": true
+  },
+  {
+   "tu": "È più piccolo il otto o il uno?",
+   "primo_s": 4.39,
+   "detti": [
+    {
+     "testo": "Il uno.",
+     "parole": []
+    }
+   ],
+   "info": {
+    "lette": [
+     "piccolo",
+     "otto",
+     "uno"
+    ],
+    "formule": [],
+    "in_testa": [],
+    "modo": "confronto",
+    "risultato": [
+     1,
+     [
+      7.796562501883657,
+      1.462601253992965
+     ]
+    ]
+   },
+   "coppia": [
+    8,
+    1
+   ],
+   "grande": false,
+   "giusta": "uno",
+   "ok": true
+  },
+  {
+   "tu": "È più grande il tre o il dieci?",
+   "primo_s": 4.31,
+   "detti": [
+    {
+     "testo": "Il dieci.",
+     "parole": []
+    }
+   ],
+   "info": {
+    "lette": [
+     "grande",
+     "tre",
+     "dieci"
+    ],
+    "formule": [],
+    "in_testa": [],
+    "modo": "confronto",
+    "risultato": [
+     10,
+     [
+      3.2549461152885995,
+      8.492593647453818
+     ]
+    ]
+   },
+   "coppia": [
+    3,
+    10
+   ],
+   "grande": true,
+   "giusta": "dieci",
+   "ok": true
+  },
+  {
+   "tu": "È più piccolo il sei o il uno?",
+   "primo_s": 4.36,
+   "detti": [
+    {
+     "testo": "Il uno.",
+     "parole": []
+    }
+   ],
+   "info": {
+    "lette": [
+     "piccolo",
+     "sei",
+     "uno"
+    ],
+    "formule": [],
+    "in_testa": [],
+    "modo": "confronto",
+    "risultato": [
+     1,
+     [
+      6.266818186145064,
+      1.1473852869072598
+     ]
+    ]
+   },
+   "coppia": [
+    6,
+    1
+   ],
+   "grande": false,
+   "giusta": "uno",
+   "ok": true
+  },
+  {
+   "tu": "È più grande il uno o il cinque?",
+   "primo_s": 4.3,
+   "detti": [
+    {
+     "testo": "Il cinque.",
+     "parole": []
+    }
+   ],
+   "info": {
+    "lette": [
+     "grande",
+     "uno",
+     "cinque"
+    ],
+    "formule": [],
+    "in_testa": [],
+    "modo": "confronto",
+    "risultato": [
+     5,
+     [
+      1.2443109557492977,
+      5.1885622390092365
+     ]
+    ]
+   },
+   "coppia": [
+    1,
+    5
+   ],
+   "grande": true,
+   "giusta": "cinque",
+   "ok": true
+  },
+  {
+   "tu": "È più piccolo il nove o il quattro?",
+   "primo_s": 4.2,
+   "detti": [
+    {
+     "testo": "Il quattro.",
+     "parole": []
+    }
+   ],
+   "info": {
+    "lette": [
+     "piccolo",
+     "nove",
+     "quattro"
+    ],
+    "formule": [],
+    "in_testa": [],
+    "modo": "confronto",
+    "risultato": [
+     4,
+     [
+      8.21312668315042,
+      4.021906541429879
+     ]
+    ]
+   },
+   "coppia": [
+    9,
+    4
+   ],
+   "grande": false,
+   "giusta": "quattro",
+   "ok": true
+  },
+  {
+   "tu": "È più grande il due o il sette?",
+   "primo_s": 4.24,
+   "detti": [
+    {
+     "testo": "Il sette.",
+     "parole": []
+    }
+   ],
+   "info": {
+    "lette": [
+     "grande",
+     "due",
+     "sette"
+    ],
+    "formule": [],
+    "in_testa": [],
+    "modo": "confronto",
+    "risultato": [
+     7,
+     [
+      2.4203620072384524,
+      6.824541539440301
+     ]
+    ]
+   },
+   "coppia": [
+    2,
+    7
+   ],
+   "grande": true,
+   "giusta": "sette",
+   "ok": true
+  },
+  {
+   "tu": "È più piccolo il dieci o il cinque?",
+   "primo_s": 4.53,
+   "detti": [
+    {
+     "testo": "Il cinque.",
+     "parole": []
+    }
+   ],
+   "info": {
+    "lette": [
+     "piccolo",
+     "dieci",
+     "cinque"
+    ],
+    "formule": [],
+    "in_testa": [],
+    "modo": "confronto",
+    "risultato": [
+     5,
+     [
+      8.462448876699133,
+      5.134862669021218
+     ]
+    ]
+   },
+   "coppia": [
+    10,
+    5
+   ],
+   "grande": false,
+   "giusta": "cinque",
+   "ok": true
+  },
+  {
+   "tu": "È più grande il quattro o il otto?",
+   "primo_s": 4.62,
+   "detti": [
+    {
+     "testo": "Il otto.",
+     "parole": []
+    }
+   ],
+   "info": {
+    "lette": [
+     "grande",
+     "quattro",
+     "otto"
+    ],
+    "formule": [],
+    "in_testa": [],
+    "modo": "confronto",
+    "risultato": [
+     8,
+     [
+      4.415476937651376,
+      7.495140447229683
+     ]
+    ]
+   },
+   "coppia": [
+    4,
+    8
+   ],
+   "grande": true,
+   "giusta": "otto",
+   "ok": true
+  },
+  {
+   "tu": "È più piccolo il sette o il due?",
+   "primo_s": 4.54,
+   "detti": [
+    {
+     "testo": "Il due.",
+     "parole": []
+    }
+   ],
+   "info": {
+    "lette": [
+     "piccolo",
+     "sette",
+     "due"
+    ],
+    "formule": [],
+    "in_testa": [],
+    "modo": "confronto",
+    "risultato": [
+     2,
+     [
+      6.803518169943607,
+      2.298498920942763
+     ]
+    ]
+   },
+   "coppia": [
+    7,
+    2
+   ],
+   "grande": false,
+   "giusta": "due",
+   "ok": true
+  },
+  {
+   "tu": "È più grande il sei o il sette?",
+   "primo_s": 5.18,
+   "detti": [
+    {
+     "testo": "Il sette.",
+     "parole": []
+    }
+   ],
+   "info": {
+    "lette": [
+     "grande",
+     "sei",
+     "sette"
+    ],
+    "formule": [],
+    "in_testa": [],
+    "modo": "confronto",
+    "risultato": [
+     7,
+     [
+      5.95956723169241,
+      7.103417216350182
+     ]
+    ]
+   },
+   "coppia": [
+    6,
+    7
+   ],
+   "grande": true,
+   "giusta": "sette",
+   "ok": true
+  },
+  {
+   "tu": "È più piccolo il quattro o il tre?",
+   "primo_s": 4.55,
+   "detti": [
+    {
+     "testo": "Il tre.",
+     "parole": []
+    }
+   ],
+   "info": {
+    "lette": [
+     "piccolo",
+     "quattro",
+     "tre"
+    ],
+    "formule": [],
+    "in_testa": [],
+    "modo": "confronto",
+    "risultato": [
+     3,
+     [
+      4.3182593701502165,
+      3.194448422749091
+     ]
+    ]
+   },
+   "coppia": [
+    4,
+    3
+   ],
+   "grande": false,
+   "giusta": "tre",
+   "ok": true
+  },
+  {
+   "tu": "È più grande il otto o il nove?",
+   "primo_s": 4.53,
+   "detti": [
+    {
+     "testo": "Il nove.",
+     "parole": []
+    }
+   ],
+   "info": {
+    "lette": [
+     "grande",
+     "otto",
+     "nove"
+    ],
+    "formule": [],
+    "in_testa": [],
+    "modo": "confronto",
+    "risultato": [
+     9,
+     [
+      7.499731265731714,
+      8.094230302931056
+     ]
+    ]
+   },
+   "coppia": [
+    8,
+    9
+   ],
+   "grande": true,
+   "giusta": "nove",
+   "ok": true
+  },
+  {
+   "tu": "È più piccolo il due o il uno?",
+   "primo_s": 4.24,
+   "detti": [
+    {
+     "testo": "Il uno.",
+     "parole": []
+    }
+   ],
+   "info": {
+    "lette": [
+     "piccolo",
+     "due",
+     "uno"
+    ],
+    "formule": [],
+    "in_testa": [],
+    "modo": "confronto",
+    "risultato": [
+     1,
+     [
+      2.417317040414511,
+      1.1282062016652714
+     ]
+    ]
+   },
+   "coppia": [
+    2,
+    1
+   ],
+   "grande": false,
+   "giusta": "uno",
+   "ok": true
+  },
+  {
+   "tu": "È più grande il cinque o il sei?",
+   "primo_s": 4.39,
+   "detti": [
+    {
+     "testo": "Il sei.",
+     "parole": []
+    }
+   ],
+   "info": {
+    "lette": [
+     "grande",
+     "cinque",
+     "sei"
+    ],
+    "formule": [],
+    "in_testa": [],
+    "modo": "confronto",
+    "risultato": [
+     6,
+     [
+      5.205815989005243,
+      6.2223434029136016
+     ]
+    ]
+   },
+   "coppia": [
+    5,
+    6
+   ],
+   "grande": true,
+   "giusta": "sei",
+   "ok": true
+  },
+  {
+   "tu": "È più piccolo il dieci o il nove?",
+   "primo_s": 4.16,
+   "detti": [
+    {
+     "testo": "Il nove.",
+     "parole": []
+    }
+   ],
+   "info": {
+    "lette": [
+     "piccolo",
+     "dieci",
+     "nove"
+    ],
+    "formule": [],
+    "in_testa": [],
+    "modo": "confronto",
+    "risultato": [
+     9,
+     [
+      8.412183938294815,
+      8.06789261021789
+     ]
+    ]
+   },
+   "coppia": [
+    10,
+    9
+   ],
+   "grande": false,
+   "giusta": "nove",
+   "ok": true
+  },
+  {
+   "tu": "È più grande il tre o il quattro?",
+   "primo_s": 4.14,
+   "detti": [
+    {
+     "testo": "Il quattro.",
+     "parole": []
+    }
+   ],
+   "info": {
+    "lette": [
+     "grande",
+     "tre",
+     "quattro"
+    ],
+    "formule": [],
+    "in_testa": [],
+    "modo": "confronto",
+    "risultato": [
+     4,
+     [
+      3.1746214090208693,
+      4.270731347983321
+     ]
+    ]
+   },
+   "coppia": [
+    3,
+    4
+   ],
+   "grande": true,
+   "giusta": "quattro",
+   "ok": true
+  },
+  {
+   "tu": "È più piccolo il sette o il sei?",
+   "primo_s": 4.33,
+   "detti": [
+    {
+     "testo": "Il sei.",
+     "parole": []
+    }
+   ],
+   "info": {
+    "lette": [
+     "piccolo",
+     "sette",
+     "sei"
+    ],
+    "formule": [],
+    "in_testa": [],
+    "modo": "confronto",
+    "risultato": [
+     6,
+     [
+      6.761968844282087,
+      6.002519575440918
+     ]
+    ]
+   },
+   "coppia": [
+    7,
+    6
+   ],
+   "grande": false,
+   "giusta": "sei",
+   "ok": true
+  },
+  {
+   "tu": "È più grande il uno o il due?",
+   "primo_s": 4.06,
+   "detti": [
+    {
+     "testo": "Il due.",
+     "parole": []
+    }
+   ],
+   "info": {
+    "lette": [
+     "grande",
+     "uno",
+     "due"
+    ],
+    "formule": [],
+    "in_testa": [],
+    "modo": "confronto",
+    "risultato": [
+     2,
+     [
+      1.190402498799065,
+      2.1567168263377643
+     ]
+    ]
+   },
+   "coppia": [
+    1,
+    2
+   ],
+   "grande": true,
+   "giusta": "due",
+   "ok": true
+  },
+  {
+   "tu": "È più piccolo il nove o il otto?",
+   "primo_s": 4.1,
+   "detti": [
+    {
+     "testo": "Il otto.",
+     "parole": []
+    }
+   ],
+   "info": {
+    "lette": [
+     "piccolo",
+     "nove",
+     "otto"
+    ],
+    "formule": [],
+    "in_testa": [],
+    "modo": "confronto",
+    "risultato": [
+     8,
+     [
+      8.246155993705363,
+      7.451118017294289
+     ]
+    ]
+   },
+   "coppia": [
+    9,
+    8
+   ],
+   "grande": false,
+   "giusta": "otto",
+   "ok": true
+  }
+ ],
+ "Q1_quota": 1.0,
+ "Q2_quota": 1.0,
+ "Q1": true,
+ "Q2": true,
+ "Q3": false,
+ "x_reale_fine": 0.534
+}
