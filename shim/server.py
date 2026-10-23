@@ -613,6 +613,8 @@ def voce_verso(testo):
 
 
 def in_16k(wav):
+    if not wav:
+        return np.zeros(0, np.float32)
     import wave
     with wave.open(io.BytesIO(wav)) as w:
         fr, n, ch = w.getframerate(), w.getnframes(), w.getnchannels()
@@ -654,7 +656,7 @@ def voce(testo, chi=None, var=None):
                     _PIPER[nome].synthesize_wav(testo, w)
             return buf.getvalue(), "audio/wav"
         except Exception as e:
-            print("[SHIM] Piper non va (%s): voce di Windows" % e, flush=True)
+            print("[SHIM] Piper non disponibile (%s)" % e, flush=True)
     try:
         if VOCE.startswith("piper:"):
             raise RuntimeError("piper")
@@ -669,6 +671,9 @@ def voce(testo, chi=None, var=None):
             return buf.getvalue()
         return asyncio.run(_f()), "audio/mpeg"
     except Exception as e:
+        if sys.platform != "win32":
+            print("[SHIM] voce non disponibile (%s): continuo con il testo" % e, flush=True)
+            return b"", "audio/wav"
         print("[SHIM] edge-tts non va (%s): voce di Windows" % e, flush=True)
         import subprocess
         with tempfile.NamedTemporaryFile(suffix=".wav", delete=False) as f:

@@ -1,5 +1,11 @@
 venv/
+.venv/
+.python/
+.cache/
+.tmp/
+.local/
 stato/
 __pycache__/
 *.pyc
 results/shim.log
+results/shim-linux.log

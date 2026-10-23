@@ -109,6 +109,10 @@ sinapsi lunga parta da un'area e arrivi in un'altra (ricavata dalla trattografia
 
 ## Come si usa
 
+**Linux / WSL2:** gli script `installa.sh` e `avvia.sh` usano un Python 3.11
+locale al repository e un ambiente `.venv` isolato. Vedi [LINUX.md](LINUX.md)
+per l'installazione e i prerequisiti GPU (Intel XPU o NVIDIA CUDA).
+
 **Serve:** Windows, Python 3.11, una scheda grafica **Intel Arc** (provato: Arc 140V integrata, 32 GB di RAM) o **NVIDIA** (non ancora
 provato), qualche GB libero su disco (PyTorch è grande; SHIM pesa ~95 MB).
 
